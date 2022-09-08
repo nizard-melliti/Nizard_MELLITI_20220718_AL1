@@ -18,12 +18,10 @@ D2 : I continued with the TDD approach. So I rewrote the same acceptance test to
 
 
 
-
-
-
-D3 :
-
-
+D3 : Same approach as the first 2 days, I started with the acceptance test. 
+	 I decided to separate the instantiation of the board in a setup method from the test class to have something more readable and cleaner.
+	 I also outputed the board definition in a lcl_board_type class.
+     I started to implement the board class but time is going by really fast. It creates a lot of frustration to have to erase everything and start over.
 
 
 
