@@ -28,7 +28,10 @@ D3 : Same approach as the first 2 days, I started with the acceptance test.
 
 
 
-D4 :
+D4 : Same approach as the first 3 days, I started with the acceptance test.
+     On the previous iteration, I had created classes for the board type and for the cell states. 
+	 Instead, I created interfaces for lif_cell_state and lif_board_type.
+	 Then I started to implement the next_generation method but I couldn't finish after 50 minutes.
 
 
 
